@@ -26,7 +26,7 @@ A altura de cada nó é armazenada no próprio objeto `No`, permitindo calcular 
 ---
 
 ## Vídeo
-[Link do vídeo](COLE_O_LINK_AQUI)
+[Link do vídeo](https://youtu.be/ngBLlzCHpcE)
 
 ---
 
